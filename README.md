@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Elyrene, a new developer...
+
 <!--
 **Elyrene/Elyrene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
